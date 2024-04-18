@@ -36,6 +36,7 @@ struct ContentView: View {
             }
         } detail: {
             Text("Select an item!")
+            Text("깃허브에서 수정하기")
             
         }
     }
